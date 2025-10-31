@@ -7,7 +7,6 @@ print("Mumbai, Maharashtra - 400074")
 print("India")
 
 #Exercise 2 : Hello
-# Exercise 2: Helloo
 
 name = input("Enter your name: ")
 print("Hello, " + name + "!")
