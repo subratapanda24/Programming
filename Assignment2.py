@@ -10,7 +10,7 @@ while True:
         print("Bot: I hear you!\n")
 
 
-#Assignment Reminder System
+#Assignment Reminder System :
 
 while True:
     alert = input("Have you submitted your assignment? ")
