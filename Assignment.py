@@ -1,9 +1,8 @@
 # Exercise 1: Mailing Address
 
 print("Subrata Panda")
-print("Flat No. 111,Kasturba Nagar")
-print("Vashinaka, Chembur")
-print("Mumbai, Maharashtra - 400074")
+print("Flat No. 11XX,")
+print("Mumbai, Maharashtra - 40007X")
 print("India")
 
 #Exercise 2 : Hello
