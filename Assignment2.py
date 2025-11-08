@@ -20,6 +20,3 @@ while True:
         break
     else:
         print("Bot: Still waiting... Please submit it!\n")
-
-
-    #practice
